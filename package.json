@@ -1,0 +1,31 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "crawler project",
+  "author": "moka-a <aud1220a@gmail.com>",
+  "private": true,
+  "scripts": {
+    "deploy": "push-dir --dir=dist --branch=master --cleanup",
+    "generate": "node start_lol.js",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.1",
+    "jsdom": "^11.11.0",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.17",
+    "normalize.css": "^8.0.0",
+    "tween.js": "^16.6.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0",
+    "eslint-friendly-formatter": "^3.0.0",
+    "eslint-loader": "^1.7.1",
+    "eslint-plugin-vue": "^4.0.0",
+    "node-sass": "^4.9.0",
+    "push-dir": "^0.4.1",
+    "sass-loader": "^7.0.3"
+  }
+}
