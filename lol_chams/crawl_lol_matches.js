@@ -77,9 +77,10 @@ async function getLol() {
                 away: {
                     teamName: awayTeam.trim()
                 },
-                home_score: homeScore,
-                away_score: awayScore,
-                winner: winner
+                homeScore: homeScore,
+                awayScore: awayScore,
+                winner: winner,
+                matchInfo: "1R"
             }
             matchs.push(match)
         }
@@ -93,8 +94,12 @@ async function getLol() {
 
 async function main() {
     const lols = await getLol()
-    fs.writeFileSync("./data.json", JSON.stringify(lols, null, "  "))
-    console.log("done!")
+    fs.writeFileSync("./lol_chams_data.json", JSON.stringify(lols, null, "  "))
+    console.log("done crawling match up!")
 }
 
-main()
+module.exports = {
+    excute: async function () {
+        await main()
+    }
+}

@@ -9,9 +9,10 @@
       "away": {
         "teamName": "MVP"
       },
-      "home_score": 0,
-      "away_score": 2,
-      "winner": "away"
+      "homeScore": 0,
+      "awayScore": 2,
+      "winner": "away",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.12",
@@ -22,9 +23,10 @@
       "away": {
         "teamName": "Hanhwa Life Esports"
       },
-      "home_score": 2,
-      "away_score": 1,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 1,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.13",
@@ -35,9 +37,10 @@
       "away": {
         "teamName": "Gen.G ESPORTS"
       },
-      "home_score": 1,
-      "away_score": 2,
-      "winner": "away"
+      "homeScore": 1,
+      "awayScore": 2,
+      "winner": "away",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.13",
@@ -48,9 +51,10 @@
       "away": {
         "teamName": "SKT T1"
       },
-      "home_score": 2,
-      "away_score": 0,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 0,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.13",
@@ -61,9 +65,10 @@
       "away": {
         "teamName": "JIN AIR Greenwings"
       },
-      "home_score": 2,
-      "away_score": 0,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 0,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.14",
@@ -74,9 +79,10 @@
       "away": {
         "teamName": "bbq OLIVERS"
       },
-      "home_score": 2,
-      "away_score": 0,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 0,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.14",
@@ -87,9 +93,10 @@
       "away": {
         "teamName": "Griffin"
       },
-      "home_score": 0,
-      "away_score": 2,
-      "winner": "away"
+      "homeScore": 0,
+      "awayScore": 2,
+      "winner": "away",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.15",
@@ -100,9 +107,10 @@
       "away": {
         "teamName": "King-Zone Dragon X"
       },
-      "home_score": 1,
-      "away_score": 2,
-      "winner": "away"
+      "homeScore": 1,
+      "awayScore": 2,
+      "winner": "away",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.15",
@@ -113,9 +121,10 @@
       "away": {
         "teamName": "SKT T1"
       },
-      "home_score": 2,
-      "away_score": 0,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 0,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.16",
@@ -126,9 +135,10 @@
       "away": {
         "teamName": "KT Rolster"
       },
-      "home_score": 2,
-      "away_score": 1,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 1,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.16",
@@ -139,9 +149,10 @@
       "away": {
         "teamName": "Griffin"
       },
-      "home_score": 1,
-      "away_score": 2,
-      "winner": "away"
+      "homeScore": 1,
+      "awayScore": 2,
+      "winner": "away",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.17",
@@ -152,9 +163,10 @@
       "away": {
         "teamName": "Gen.G ESPORTS"
       },
-      "home_score": 0,
-      "away_score": 2,
-      "winner": "away"
+      "homeScore": 0,
+      "awayScore": 2,
+      "winner": "away",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.17",
@@ -165,9 +177,10 @@
       "away": {
         "teamName": "Hanhwa Life Esports"
       },
-      "home_score": 0,
-      "away_score": 2,
-      "winner": "away"
+      "homeScore": 0,
+      "awayScore": 2,
+      "winner": "away",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.19",
@@ -178,9 +191,10 @@
       "away": {
         "teamName": "King-Zone Dragon X"
       },
-      "home_score": 0,
-      "away_score": 2,
-      "winner": "away"
+      "homeScore": 0,
+      "awayScore": 2,
+      "winner": "away",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.19",
@@ -191,9 +205,10 @@
       "away": {
         "teamName": "bbq OLIVERS"
       },
-      "home_score": 2,
-      "away_score": 0,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 0,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.20",
@@ -204,9 +219,10 @@
       "away": {
         "teamName": "JIN AIR Greenwings"
       },
-      "home_score": 2,
-      "away_score": 0,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 0,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.20",
@@ -217,9 +233,10 @@
       "away": {
         "teamName": "MVP"
       },
-      "home_score": 1,
-      "away_score": 2,
-      "winner": "away"
+      "homeScore": 1,
+      "awayScore": 2,
+      "winner": "away",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.20",
@@ -230,9 +247,10 @@
       "away": {
         "teamName": "Hanhwa Life Esports"
       },
-      "home_score": 2,
-      "away_score": 1,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 1,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.21",
@@ -243,9 +261,10 @@
       "away": {
         "teamName": "Afreeca Freecs"
       },
-      "home_score": 2,
-      "away_score": 1,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 1,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.21",
@@ -256,9 +275,10 @@
       "away": {
         "teamName": "KT Rolster"
       },
-      "home_score": 0,
-      "away_score": 2,
-      "winner": "away"
+      "homeScore": 0,
+      "awayScore": 2,
+      "winner": "away",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.22",
@@ -269,9 +289,10 @@
       "away": {
         "teamName": "SKT T1"
       },
-      "home_score": 2,
-      "away_score": 0,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 0,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.22",
@@ -282,9 +303,10 @@
       "away": {
         "teamName": "JIN AIR Greenwings"
       },
-      "home_score": 2,
-      "away_score": 0,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 0,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.23",
@@ -295,9 +317,10 @@
       "away": {
         "teamName": "Gen.G ESPORTS"
       },
-      "home_score": 2,
-      "away_score": 0,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 0,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.23",
@@ -308,9 +331,10 @@
       "away": {
         "teamName": "Afreeca Freecs"
       },
-      "home_score": 2,
-      "away_score": 1,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 1,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.24",
@@ -321,9 +345,10 @@
       "away": {
         "teamName": "JIN AIR Greenwings"
       },
-      "home_score": 2,
-      "away_score": 0,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 0,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.24",
@@ -334,9 +359,10 @@
       "away": {
         "teamName": "King-Zone Dragon X"
       },
-      "home_score": 0,
-      "away_score": 2,
-      "winner": "away"
+      "homeScore": 0,
+      "awayScore": 2,
+      "winner": "away",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.26",
@@ -347,9 +373,10 @@
       "away": {
         "teamName": "KT Rolster"
       },
-      "home_score": 2,
-      "away_score": 1,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 1,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.26",
@@ -360,9 +387,10 @@
       "away": {
         "teamName": "Griffin"
       },
-      "home_score": 0,
-      "away_score": 2,
-      "winner": "away"
+      "homeScore": 0,
+      "awayScore": 2,
+      "winner": "away",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.27",
@@ -373,9 +401,10 @@
       "away": {
         "teamName": "Hanhwa Life Esports"
       },
-      "home_score": 0,
-      "away_score": 2,
-      "winner": "away"
+      "homeScore": 0,
+      "awayScore": 2,
+      "winner": "away",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.27",
@@ -386,9 +415,10 @@
       "away": {
         "teamName": "bbq OLIVERS"
       },
-      "home_score": 2,
-      "away_score": 1,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 1,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.27",
@@ -399,9 +429,10 @@
       "away": {
         "teamName": "Afreeca Freecs"
       },
-      "home_score": 1,
-      "away_score": 2,
-      "winner": "away"
+      "homeScore": 1,
+      "awayScore": 2,
+      "winner": "away",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.28",
@@ -412,9 +443,10 @@
       "away": {
         "teamName": "Griffin"
       },
-      "home_score": 2,
-      "away_score": 0,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 0,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.28",
@@ -425,9 +457,10 @@
       "away": {
         "teamName": "SKT T1"
       },
-      "home_score": 2,
-      "away_score": 0,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 0,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.29",
@@ -438,9 +471,10 @@
       "away": {
         "teamName": "MVP"
       },
-      "home_score": 2,
-      "away_score": 0,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 0,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.29",
@@ -451,9 +485,10 @@
       "away": {
         "teamName": "Gen.G ESPORTS"
       },
-      "home_score": 0,
-      "away_score": 2,
-      "winner": "away"
+      "homeScore": 0,
+      "awayScore": 2,
+      "winner": "away",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.30",
@@ -464,9 +499,10 @@
       "away": {
         "teamName": "King-Zone Dragon X"
       },
-      "home_score": 1,
-      "away_score": 2,
-      "winner": "away"
+      "homeScore": 1,
+      "awayScore": 2,
+      "winner": "away",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.06.30",
@@ -477,9 +513,10 @@
       "away": {
         "teamName": "SKT T1"
       },
-      "home_score": 0,
-      "away_score": 2,
-      "winner": "away"
+      "homeScore": 0,
+      "awayScore": 2,
+      "winner": "away",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.01",
@@ -490,9 +527,10 @@
       "away": {
         "teamName": "Afreeca Freecs"
       },
-      "home_score": 0,
-      "away_score": 2,
-      "winner": "away"
+      "homeScore": 0,
+      "awayScore": 2,
+      "winner": "away",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.01",
@@ -503,9 +541,10 @@
       "away": {
         "teamName": "MVP"
       },
-      "home_score": 2,
-      "away_score": 0,
-      "winner": "home"
+      "homeScore": 2,
+      "awayScore": 0,
+      "winner": "home",
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.11",
@@ -516,8 +555,9 @@
       "away": {
         "teamName": "Afreeca Freecs"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.11",
@@ -528,8 +568,9 @@
       "away": {
         "teamName": "Hanhwa Life Esports"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.12",
@@ -540,8 +581,9 @@
       "away": {
         "teamName": "JIN AIR Greenwings"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.12",
@@ -552,8 +594,9 @@
       "away": {
         "teamName": "King-Zone Dragon X"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.13",
@@ -564,8 +607,9 @@
       "away": {
         "teamName": "Gen.G ESPORTS"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.13",
@@ -576,8 +620,9 @@
       "away": {
         "teamName": "SKT T1"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.14",
@@ -588,8 +633,9 @@
       "away": {
         "teamName": "JIN AIR Greenwings"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.14",
@@ -600,8 +646,9 @@
       "away": {
         "teamName": "bbq OLIVERS"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.15",
@@ -612,8 +659,9 @@
       "away": {
         "teamName": "Afreeca Freecs"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.15",
@@ -624,8 +672,9 @@
       "away": {
         "teamName": "Gen.G ESPORTS"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.17",
@@ -636,8 +685,9 @@
       "away": {
         "teamName": "Griffin"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.17",
@@ -648,8 +698,9 @@
       "away": {
         "teamName": "SKT T1"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.18",
@@ -660,8 +711,9 @@
       "away": {
         "teamName": "King-Zone Dragon X"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.18",
@@ -672,8 +724,9 @@
       "away": {
         "teamName": "bbq OLIVERS"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.19",
@@ -684,8 +737,9 @@
       "away": {
         "teamName": "Griffin"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.19",
@@ -696,8 +750,9 @@
       "away": {
         "teamName": "SKT T1"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.20",
@@ -708,8 +763,9 @@
       "away": {
         "teamName": "MVP"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.20",
@@ -720,8 +776,9 @@
       "away": {
         "teamName": "Afreeca Freecs"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.21",
@@ -732,8 +789,9 @@
       "away": {
         "teamName": "KT Rolster"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.21",
@@ -744,8 +802,9 @@
       "away": {
         "teamName": "Hanhwa Life Esports"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.22",
@@ -756,8 +815,9 @@
       "away": {
         "teamName": "MVP"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.22",
@@ -768,8 +828,9 @@
       "away": {
         "teamName": "Gen.G ESPORTS"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.24",
@@ -780,8 +841,9 @@
       "away": {
         "teamName": "King-Zone Dragon X"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.24",
@@ -792,8 +854,9 @@
       "away": {
         "teamName": "KT Rolster"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.25",
@@ -804,8 +867,9 @@
       "away": {
         "teamName": "bbq OLIVERS"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.25",
@@ -816,8 +880,9 @@
       "away": {
         "teamName": "JIN AIR Greenwings"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.25",
@@ -828,8 +893,9 @@
       "away": {
         "teamName": "Afreeca Freecs"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.26",
@@ -840,8 +906,9 @@
       "away": {
         "teamName": "KT Rolster"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.26",
@@ -852,8 +919,9 @@
       "away": {
         "teamName": "Griffin"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.27",
@@ -864,8 +932,9 @@
       "away": {
         "teamName": "Hanhwa Life Esports"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.27",
@@ -876,8 +945,9 @@
       "away": {
         "teamName": "SKT T1"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.28",
@@ -888,8 +958,9 @@
       "away": {
         "teamName": "King-Zone Dragon X"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.28",
@@ -900,8 +971,9 @@
       "away": {
         "teamName": "MVP"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.29",
@@ -912,8 +984,9 @@
       "away": {
         "teamName": "Gen.G ESPORTS"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.29",
@@ -924,8 +997,9 @@
       "away": {
         "teamName": "bbq OLIVERS"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.31",
@@ -936,8 +1010,9 @@
       "away": {
         "teamName": "Griffin"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.07.31",
@@ -948,8 +1023,9 @@
       "away": {
         "teamName": "Hanhwa Life Esports"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.08.01",
@@ -960,8 +1036,9 @@
       "away": {
         "teamName": "Gen.G ESPORTS"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.08.01",
@@ -972,8 +1049,9 @@
       "away": {
         "teamName": "Afreeca Freecs"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.08.02",
@@ -984,8 +1062,9 @@
       "away": {
         "teamName": "MVP"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.08.02",
@@ -996,8 +1075,9 @@
       "away": {
         "teamName": "KT Rolster"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.08.04",
@@ -1008,8 +1088,9 @@
       "away": {
         "teamName": "Griffin"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.08.04",
@@ -1020,8 +1101,9 @@
       "away": {
         "teamName": "JIN AIR Greenwings"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.08.05",
@@ -1032,8 +1114,9 @@
       "away": {
         "teamName": "Hanhwa Life Esports"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.08.05",
@@ -1044,8 +1127,9 @@
       "away": {
         "teamName": "bbq OLIVERS"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.08.07",
@@ -1056,8 +1140,9 @@
       "away": {
         "teamName": "MVP"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.08.07",
@@ -1068,8 +1153,9 @@
       "away": {
         "teamName": "KT Rolster"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.08.08",
@@ -1080,8 +1166,9 @@
       "away": {
         "teamName": "JIN AIR Greenwings"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.08.08",
@@ -1092,8 +1179,9 @@
       "away": {
         "teamName": "bbq OLIVERS"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.08.09",
@@ -1104,8 +1192,9 @@
       "away": {
         "teamName": "King-Zone Dragon X"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     },
     {
       "matchDate": "2018.08.09",
@@ -1116,8 +1205,9 @@
       "away": {
         "teamName": "KT Rolster"
       },
-      "home_score": 0,
-      "away_score": 0
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "1R"
     }
   ]
 }
