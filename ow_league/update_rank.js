@@ -1,7 +1,7 @@
 const fetch = require('node-fetch')
 const fs = require("fs")
 
-const LEAGUE_ID = 6 /* 2018 롤챔스 서머 */
+const LEAGUE_ID = 2
 
 const HOST_PRODUCT = 'http://epodule.moka-a.io:3000'
 const HOST_DEV = 'http://172.16.101.226:3000'
@@ -55,10 +55,10 @@ function calculateRank(matches) {
             var awayTeam = {}
 
             current_teams.forEach(team => {
-                if (team.teamName.trim() === match.home.teamName.trim()) {
+                if (sameTeam(match.home.teamName.trim(), team.teamName.trim())) {
                     homeTeam = team
                 }
-                if (team.teamName.trim() === match.away.teamName.trim()) {
+                if (sameTeam(match.away.teamName.trim(), team.teamName.trim())) {
                     awayTeam = team
                 }
             })
@@ -94,14 +94,32 @@ function calculateRank(matches) {
     })
 }
 
+function sameTeam(epodule, official) {
+    var isSame = false
+    isSame = isSame || (official == "Philadelphia Fusion" && epodule == "필라델피아 퓨전" ? true : false)
+    isSame = isSame || (official == "Boston Uprising" && epodule == "보스턴 업라이징" ? true : false)
+    isSame = isSame || (official == "London Spitfire" && epodule == "런던 스핏파이어" ? true : false)
+    isSame = isSame || (official == "Los Angeles Gladiators" && epodule == "LA 글래디에이터즈" ? true : false)
+    isSame = isSame || (official == "Los Angeles Valiant" && epodule == "LA 발리언트" ? true : false)
+    isSame = isSame || (official == "New York Excelsior" && epodule == "뉴욕 엑셀시어" ? true : false)
+    isSame = isSame || (official == "San Francisco Shock" && epodule == "샌프란시스코 쇼크" ? true : false)
+    isSame = isSame || (official == "Seoul Dynasty" && epodule == "서울 다이너스티" ? true : false)
+    isSame = isSame || (official == "Dallas Fuel" && epodule == "댈러스 퓨얼" ? true : false)
+    isSame = isSame || (official == "Shanghai Dragons" && epodule == "상하이 드래곤즈" ? true : false)
+    isSame = isSame || (official == "Florida Mayhem" && epodule == "플로리다 메이헴" ? true : false)
+    isSame = isSame || (official == "Houston Outlaws" && epodule == "휴스턴 아웃로즈" ? true : false)
+    return isSame
+}
+
 async function updateRankToServer() {
+    console.log(current_teams)
     var rank = 1
 
     for (team of current_teams) {
         const postBody = {
-            win: team.win,
-            lose: team.lose,
-            diffScore: team.diffScore,
+            win: team.win || 0,
+            lose: team.lose || 0,
+            diffScore: team.diffScore || 0,
             rank: rank
         };
         rank++
@@ -124,11 +142,11 @@ async function updateRankToServer() {
 
 async function main() {
     /* Load matches data from disk */
-    const buffer = fs.readFileSync("./data/lol_chams_data.json", "utf8")
+    const buffer = fs.readFileSync("./data/ow_league_data.json", "utf8")
     const data = JSON.parse(buffer.toString())
 
     await loadTeams()
-    calculateRank(data.matchs)
+    calculateRank(data.matches)
     await updateRankToServer()
 }
 

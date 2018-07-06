@@ -94,7 +94,7 @@ async function getLol() {
 
 async function main() {
     const lols = await getLol()
-    fs.writeFileSync("./lol_chams_data.json", JSON.stringify(lols, null, "  "))
+    fs.writeFileSync("./data/lol_chams_data.json", JSON.stringify(lols, null, "  "))
     console.log("done crawling match up!")
 }
 

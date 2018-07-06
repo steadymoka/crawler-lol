@@ -1,0 +1,199 @@
+{
+  "matches": [
+    {
+      "matchStartTime": 1531353600,
+      "matchEndTime": 1531360800,
+      "home": {
+        "teamName": "Philadelphia Fusion"
+      },
+      "away": {
+        "teamName": "Boston Uprising"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "playoffs"
+    },
+    {
+      "matchStartTime": 1531360800,
+      "matchEndTime": 1531368000,
+      "home": {
+        "teamName": "London Spitfire"
+      },
+      "away": {
+        "teamName": "Los Angeles Gladiators"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "playoffs"
+    },
+    {
+      "matchStartTime": 1531526400,
+      "matchEndTime": 1531533600,
+      "home": {
+        "teamName": "Philadelphia Fusion"
+      },
+      "away": {
+        "teamName": "Boston Uprising"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "playoffs"
+    },
+    {
+      "matchStartTime": 1531533600,
+      "matchEndTime": 1531540800,
+      "home": {
+        "teamName": "Philadelphia Fusion"
+      },
+      "away": {
+        "teamName": "Boston Uprising"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "playoffs"
+    },
+    {
+      "matchStartTime": 1531598400,
+      "matchEndTime": 1531605600,
+      "home": {
+        "teamName": "London Spitfire"
+      },
+      "away": {
+        "teamName": "Los Angeles Gladiators"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "playoffs"
+    },
+    {
+      "matchStartTime": 1531605600,
+      "matchEndTime": 1531612800,
+      "home": {
+        "teamName": "London Spitfire"
+      },
+      "away": {
+        "teamName": "Los Angeles Gladiators"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "playoffs"
+    },
+    {
+      "matchStartTime": 1531958400,
+      "matchEndTime": 1531965600,
+      "home": {
+        "teamName": "TBD"
+      },
+      "away": {
+        "teamName": "New York Excelsior"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "playoffs"
+    },
+    {
+      "matchStartTime": 1531965600,
+      "matchEndTime": 1531972800,
+      "home": {
+        "teamName": "TBD"
+      },
+      "away": {
+        "teamName": "Los Angeles Valiant"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "playoffs"
+    },
+    {
+      "matchStartTime": 1532131200,
+      "matchEndTime": 1532138400,
+      "home": {
+        "teamName": "TBD"
+      },
+      "away": {
+        "teamName": "Los Angeles Valiant"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "playoffs"
+    },
+    {
+      "matchStartTime": 1532138400,
+      "matchEndTime": 1532145600,
+      "home": {
+        "teamName": "TBD"
+      },
+      "away": {
+        "teamName": "Los Angeles Valiant"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "playoffs"
+    },
+    {
+      "matchStartTime": 1532217600,
+      "matchEndTime": 1532224800,
+      "home": {
+        "teamName": "TBD"
+      },
+      "away": {
+        "teamName": "New York Excelsior"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "playoffs"
+    },
+    {
+      "matchStartTime": 1532224800,
+      "matchEndTime": 1532232000,
+      "home": {
+        "teamName": "TBD"
+      },
+      "away": {
+        "teamName": "New York Excelsior"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "playoffs"
+    },
+    {
+      "matchStartTime": 1532732400,
+      "matchEndTime": 1532743200,
+      "home": {
+        "teamName": "TBD"
+      },
+      "away": {
+        "teamName": "TBD"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "playoffs"
+    },
+    {
+      "matchStartTime": 1532808000,
+      "matchEndTime": 1532815200,
+      "home": {
+        "teamName": "TBD"
+      },
+      "away": {
+        "teamName": "TBD"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "playoffs"
+    },
+    {
+      "matchStartTime": 1532815200,
+      "matchEndTime": 1532822400,
+      "home": {
+        "teamName": "TBD"
+      },
+      "away": {
+        "teamName": "TBD"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "matchInfo": "playoffs"
+    }
+  ]
+}

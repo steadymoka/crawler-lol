@@ -65,7 +65,7 @@ async function main() {
     await loadTeams()
 
     /* Load matches data from disk */
-    const buffer = fs.readFileSync("./lol_chams_data.json", "utf8");
+    const buffer = fs.readFileSync("./data/lol_chams_data.json", "utf8");
     const data = JSON.parse(buffer.toString());
 
     for (element of data.matchs) {

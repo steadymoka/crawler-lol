@@ -123,7 +123,7 @@ async function updateRankToServer() {
 
 async function main() {
     /* Load matches data from disk */
-    const buffer = fs.readFileSync("./lol_rift_rivers_data.json", "utf8")
+    const buffer = fs.readFileSync("./data/lol_rift_rivers_data.json", "utf8")
     const data = JSON.parse(buffer.toString())
 
     await loadTeams()
