@@ -49,35 +49,33 @@ function calculateRank(matches) {
          *  homeTeam.Score -= awayScore 
          *  awayTeam.Score += awayScore
          */
-        if (match.winner) {
-            var homeTeam = {}
-            var awayTeam = {}
+        var homeTeam = {}
+        var awayTeam = {}
 
-            current_teams.forEach(team => {
-                if (team.teamName.trim() === match.home.teamName.trim()) {
-                    homeTeam = team
-                }
-                if (team.teamName.trim() === match.away.teamName.trim()) {
-                    awayTeam = team
-                }
-            })
-
-            if (match.winner == "home") {
-                homeTeam.win += 1
-                awayTeam.lose += 1
+        current_teams.forEach(team => {
+            if (team.teamName.trim() === match.home.teamName.trim()) {
+                homeTeam = team
             }
-
-            if (match.winner == "away") {
-                awayTeam.win += 1
-                homeTeam.lose += 1
+            if (team.teamName.trim() === match.away.teamName.trim()) {
+                awayTeam = team
             }
+        })
 
-            homeTeam.diffScore += match.homeScore
-            awayTeam.diffScore -= match.homeScore
-
-            homeTeam.diffScore -= match.awayScore
-            awayTeam.diffScore += match.awayScore
+        if (match.homeScore > match.awayScore) {
+            homeTeam.win += 1
+            awayTeam.lose += 1
         }
+
+        if (match.homeScore < match.awayScore) {
+            awayTeam.win += 1
+            homeTeam.lose += 1
+        }
+
+        homeTeam.diffScore += match.homeScore
+        awayTeam.diffScore -= match.homeScore
+
+        homeTeam.diffScore -= match.awayScore
+        awayTeam.diffScore += match.awayScore
     });
 
     current_teams.sort((a, b) => {
